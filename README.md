@@ -1,4 +1,3 @@
-```markdown
 # 🏷️ Auction API - Django Backend
 
 This is a RESTful API built with Django and Django REST Framework for an auction platform. It is designed to serve as the backend for a frontend application (e.g., built with React). The API handles user and company registrations, auction creation, bidding, and viewing of auctions.
